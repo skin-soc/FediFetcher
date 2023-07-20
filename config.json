@@ -1,0 +1,10 @@
+{
+  "server": "skinheads.social",
+  "home-timeline-length": 500,
+  "max-followings": 200,
+  "max-bookmarks": 200,
+  "max-favourites": 200,
+  "max-followers": 200,
+  "max-follow-requests": 200,
+  "from-notifications": 1
+}
